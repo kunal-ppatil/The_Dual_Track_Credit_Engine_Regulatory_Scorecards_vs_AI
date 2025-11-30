@@ -12,6 +12,8 @@ A comprehensive simulation of a modern banking credit risk pipeline. This projec
 
 Most importantly, it evaluates performance not just on AUC, but on **Net Profit ($)**, demonstrating the tangible business value of AI adoption.
 
+We built the code, and GPT helped polish it for clarity.
+
 ## 📖 About The Project
 
 **The Problem:** Traditional banks often reject "Thin-File" borrowers—young people or immigrants who are financially responsible but lack a long credit history. Banks rely on rigid metrics like Debt-to-Income ratio, missing out on millions of reliable customers ("Invisible Primes").
